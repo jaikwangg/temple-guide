@@ -27,7 +27,7 @@ const translations = {
     transportation: "Transportation",
     templesInKhonKaen: "Temples in Khon Kaen",
     watNongWaeng: "Wat Nong Waeng (Wat 9 Chan)",
-    templeDescription: "Brief description of the temple...",
+    templeDescription: "It is a third-class royal temple of the ordinary type under the Mahanikaya sect, located in Nai Mueang Subdistrict, Mueang Khon Kaen District, Khon Kaen Province. The temple occupies 26 rai and 65 square wah of land, with a title deed numbered 713, survey number 28, survey page 794, book 8, page 13. The temple's grounds and surrounding area are flat and hexagonal in shape, with villages surrounding three sides and Bueng Kaen Nakhon to the east of the temple.",
     learnMore: "Learn More",
     restaurantName: "Restaurant Name",
     restaurantDescription: "Cuisine type and brief description...",
@@ -35,7 +35,7 @@ const translations = {
     attractionName: "Attraction Name",
     attractionDescription: "Brief description of the attraction...",
     mondayToSunday: "Monday - Sunday",
-    transportationInfo: "[Insert information about public transportation and directions]",
+    transportationInfo: "Bus Route 8 Fare 9-15 THB ,Bus Route 13 Fare 9-15 THB ,Bus Route 23 Fare 9-15 THB",
   },
   th: {
     home: "หน้าแรก",
@@ -68,8 +68,8 @@ const translations = {
     viewDetails: "ดูรายละเอียด",
     attractionName: "ชื่อสถานที่ท่องเที่ยว",
     attractionDescription: "คำอธิบายสั้นๆ เกี่ยวกับสถานที่ท่องเที่ยว...",
-    mondayToSunday: "วันจันทร์ - วันอาทิตย์",
-    transportationInfo: "[ข้อมูลเกี่ยวกับการขนส่งสาธารณะและเส้นทาง]",
+    mondayToSunday: "ทุกวัน",
+    transportationInfo: "รถโดยสารประจำทางสาย 8 อัตราค่าโดยสาร 9-15 บาท ,รถโดยสารประจำทางสาย 13 อัตราค่าโดยสาร 9-15 บาท ,รถโดยสารประจำทางสาย 23 อัตราค่าโดยสาร 9-15 บาท",
   }
 };
 
