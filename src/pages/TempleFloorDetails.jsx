@@ -7,11 +7,11 @@ import floor2Image from '../asset/images/temple-floors/2.png';
 import floor5Image from '../asset/images/temple-floors/5.png';
 import floor7Image from '../asset/images/temple-floors/7.png';
 import floor8Image from '../asset/images/temple-floors/8.png';
-import floor1Image from '../asset/images/temple-floors/1.png';
-import floor3Image from '../asset/images/temple-floors/3.png';
-import floor4Image from '../asset/images/temple-floors/4.png';
-import floor9Image from '../asset/images/temple-floors/9.png';
-import floor6Image from '../asset/images/temple-floors/6.png';
+import floor1Image from '../asset/images/temple-floors/1.jpg';
+import floor3Image from '../asset/images/temple-floors/3.jpg';
+import floor4Image from '../asset/images/temple-floors/4.jpg';
+import floor9Image from '../asset/images/temple-floors/9.jpg';
+import floor6Image from '../asset/images/temple-floors/6.jpg';
 
 const TempleFloorDetails = () => {
   const { floorNumber } = useParams();
