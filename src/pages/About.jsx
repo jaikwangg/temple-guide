@@ -1,5 +1,6 @@
 import React from 'react';
 import { useLanguage } from '../contexts/LanguageContext';
+import templeImage from '../asset/background3.jpg';
 
 const About = () => {
   const { t, language } = useLanguage();
@@ -30,6 +31,8 @@ const About = () => {
           ? 'Wat Nong Wang was first granted the Wisungkhama Sima (land for religious boundary) in 1899 (B.E. 2442) and was most recently granted it on August 27, 1984 (B.E. 2527). The temple\'s Sima boundary is 40 meters wide and 80 meters long. In 1984, the temple was elevated to the status of a royal temple.'
           : 'วัดหนองแวงได้รับพระราชทานวิสุงคามสีมาครั้งแรกเมื่อ พ.ศ. 2442 และได้รับพระราชทานวิสุงคามสีมาครั้งสุดท้าย เมื่อวันที่ 27 สิงหาคม พ.ศ. 2527 เขตวิสุงคามสีมา กว้าง 40 เมตร ยาว 80 เมตร ต่อมาเมื่อ พ.ศ. 2527 ได้ยกฐานะขึ้นเป็นพระอารามหลวง'}
       </p>
+
+      <img src={templeImage} alt="Temple" className="w-full mb-4" />
     </div>
   );
 };

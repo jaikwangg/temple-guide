@@ -4,7 +4,7 @@ import { useLanguage } from '../contexts/LanguageContext';
 import { ArrowLeft } from 'lucide-react';
 
 import floor2Image from '../asset/images/temple-floors/2.png';
-import floor5Image from '../asset/images/temple-floors/5.png';
+import floor5Image from '../asset/images/temple-floors/5.jpg';
 import floor7Image from '../asset/images/temple-floors/7.png';
 import floor8Image from '../asset/images/temple-floors/8.png';
 import floor1Image from '../asset/images/temple-floors/1.jpg';

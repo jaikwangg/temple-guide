@@ -8,7 +8,7 @@ const Attractions = () => {
     { 
         name: language === 'en' ? 'Fairy Plaza' : 'ห้างสรรพสินค้า แฟรี่พลาซ่า', 
         description: language === 'en' ? 'A shopping mall in Khon Kaen' : 'ห้างสรรพสินค้าในขอนแก่น', 
-        mapUrl: 'https://maps.app.goo.gl/oQR9xLwh91k5VKyd6?g_st=com.google.maps.preview.copy' 
+        mapUrl: 'https://maps.app.goo.gl/aPPQW33196HWtwTdA?g_st=com.google.maps.preview.copy' 
     },
     { 
         name: language === 'en' ? 'Bueng Kaen Nakhon' : 'บึงแก่นนคร', 
