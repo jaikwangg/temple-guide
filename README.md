@@ -1,6 +1,4 @@
 # temple-guide
- 
-This project is built with .
 
 - Vite
 - React
